@@ -44,4 +44,7 @@ Build a CI/CD pipeline for a microservices application
 * index.html : Web site Index file.
 ```
 
+Website Link is 
+http://afdd777a9a2a611ea9ed41290252851d-1959918820.us-east-1.elb.amazonaws.com:8000/
+
 
